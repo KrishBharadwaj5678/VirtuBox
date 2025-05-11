@@ -41,13 +41,33 @@ mediapipe
 cvzone
 ```
 
+## 📬 Contributions
+
+Contributions are welcome! 💡✨
+Feel free to fork the repo and submit your improvements.
+
+### 🛠️ How to Contribute
+
+1. **Fork** the repository
+2. **Clone** your forked repo
+3. **Create a new branch**
+
+   ```bash
+   git checkout -b my-feature
+   ```
+4. **Make your changes** and commit
+
+   ```bash
+   git commit -am "Add new feature"
+   ```
+5. **Push to your branch**
+
+   ```bash
+   git push origin my-feature
+   ```
+6. **Create a Pull Request** from your branch to the `main` branch of this repo
+
 ---
 
-## ▶️ How to Run
 
-```bash
-python virtuBox.py
-```
-
----
 
