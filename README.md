@@ -1,6 +1,8 @@
-#  🎮 VirtuBox
+# 🖥️ VirtuBox
 
 **VirtuBox** is a Python based virtual interface that allows you to **drag and drop virtual boxes on your screen** using your fingers. ✌️
+
+![VirtuBox Demo](https://github.com/KrishBharadwaj5678/VirtuBox/blob/main/VirtuBoxDemo.gif)
 
 ---
 
