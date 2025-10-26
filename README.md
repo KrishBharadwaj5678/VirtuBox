@@ -8,23 +8,27 @@
 
 ## 🚀 Features
 
-* 🖐️ **Finger Drag & Drop**: Control virtual boxes with your fingers.
-* ✋ **Precise Tracking**: Accurate finger movement with MediaPipe.
-* 📦 **Virtual Boxes**: Move and interact with boxes on-screen.
-* 🌟 **Multiple Boxes**: Handle several boxes at once.
-* ⚡ **Smooth Performance**: Real-time interaction with no lag.
-* 🎮 **Minimal Interface**: Simple, distraction-free design.
-* 💻 **Cross-Platform**: Works on Windows, macOS, and Linux.
-* 🔒 **Local Operation**: No cloud, all processing happens locally.
+| Feature                    | Description                                              |
+| :------------------------- | :------------------------------------------------------- |
+| 🖐️ **Finger Drag & Drop** | Control virtual boxes easily using your fingers.         |
+| ✋ **Precise Tracking**     | Enjoy accurate finger movement powered by MediaPipe.     |
+| 📦 **Virtual Boxes**       | Move and interact with on-screen boxes in real time.     |
+| 🌟 **Multiple Boxes**      | Handle several boxes simultaneously with smooth control. |
+| ⚡ **Smooth Performance**   | Experience lag-free, real-time interaction.              |
+| 🎮 **Minimal Interface**   | Simple and distraction-free design for better focus.     |
+| 💻 **Cross-Platform**      | Works seamlessly on Windows, macOS, and Linux.           |
+| 🔒 **Local Operation**     | 100% offline — all processing happens locally.           |
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 🐍 Python 3.x
-* 📷 OpenCV
-* ✋ MediaPipe 
-* 📦 CVZone
+| Technology        | Description                                                       |
+| :---------------- | :---------------------------------------------------------------- |
+| 🐍 **Python 3.x** | Core programming language used for the application.               |
+| 📷 **OpenCV**     | Handles computer vision and image processing tasks.               |
+| ✋ **MediaPipe**   | Enables accurate hand and finger tracking.                        |
+| 📦 **CVZone**     | Simplifies computer vision integration with OpenCV and MediaPipe. |
 
 ---
 
@@ -71,5 +75,3 @@ Contributions are welcome!
    git push origin my-feature
    ```
 6. **Create a Pull Request** from your branch to the `main` branch of this repo 🔄 
-
----
