@@ -1,6 +1,6 @@
 # 🖥️ VirtuBox
 
-**VirtuBox** is a Python based virtual interface that allows you to **drag and drop virtual boxes on your screen** using your fingers. ✌️
+**VirtuBox** is a Python based virtual interface that allows you to **drag and drop virtual boxes on your screen** using your fingers. 
 
 ![VirtuBox Demo](https://github.com/KrishBharadwaj5678/VirtuBox/blob/main/VirtuBoxDemo.gif)
 
@@ -51,4 +51,3 @@ Want to contribute? Here's how:
 3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
 4. 🚀 Push to your branch (`git push origin feature-name`).
 5. 🔄 Submit a pull request to merge into the main branch.
-6. 
