@@ -4,8 +4,6 @@
 
 ![VirtuBox Demo](https://github.com/KrishBharadwaj5678/VirtuBox/blob/main/VirtuBoxDemo.gif)
 
----
-
 ## 🚀 Features
 
 | Feature                    | Description                                              |
@@ -42,36 +40,15 @@ cd VirtuBox
 # Install dependencies
 pip install -r requirements.txt
 ```
+---
 
-### 🔧 Requirements
+## Contributing 🤝
 
-```
-opencv-python
-mediapipe
-cvzone
-```
+Want to contribute? Here's how:
 
-## 📬 Contributions
-
-Contributions are welcome! 
-
-### 🛠️ How to Contribute
-
-1. **Fork** the repository 🍴
-2. **Clone** your forked repo 📂
-3. **Create a new branch** 🌿 
-
-   ```bash
-   git checkout -b my-feature
-   ```
-4. **Make your changes** and commit ✏️ 
-
-   ```bash
-   git commit -am "Add new feature"
-   ```
-5. **Push to your branch** ⬆️ 
-
-   ```bash
-   git push origin my-feature
-   ```
-6. **Create a Pull Request** from your branch to the `main` branch of this repo 🔄 
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
+6. 
